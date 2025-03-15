@@ -1,4 +1,4 @@
-# 3X-UI Telegram Bot
+# 3X-UI Telegram Bot c Веб-админкой
 ![1000005266](https://github.com/user-attachments/assets/3aff6a78-1c82-462c-85c8-2df50ae80877)
 
 Полностью готовый Telegram Bot с веб-модулем для автоматизации продаж VPN ключей с использованием 3X-UI для вашего бизнеса. 
@@ -16,15 +16,17 @@
  4. Простое добавление серверов – новые 3X-UI серверы добавляются одним кликом в админ-панели.
  5. Удобный личный кабинет для пользователей – управление подписками, объединение в одну, автоматический импорт конфигурации в клиент. 
  6. Простая навигация – удобное меню для выбора страны, описание тарифов и многое другое!
-    ![1000005292](https://github.com/user-attachments/assets/af24c616-a237-4c6b-b60b-16d070ca3bd9)
-![f0d35a1f-3883-5114-b975-13940f108b5a](https://github.com/user-attachments/assets/2752778e-9f60-4834-a637-1ee1f2c1552a)
-![f0647141-849e-5de6-829b-ae6a16faebe4](https://github.com/user-attachments/assets/50ecaa63-0ddb-4ba4-93b2-1b81c9e320bf)
+![{84C1C2CA-2EF1-4AC2-8289-F13442F2E48E}](https://github.com/user-attachments/assets/71a59147-77c7-4f98-89fa-df28c547e8c8)
+![{514939A3-08E7-4086-896F-B6C832FCB5EF}](https://github.com/user-attachments/assets/b3862b59-4154-4523-8fff-b7e2ffbe99e4)
+![{3999BB05-5DF8-4FDF-92C6-F057C7BBF9BE}](https://github.com/user-attachments/assets/6be5ed3f-377b-41a9-b2f4-942f5a79b556)
+![{ED93ADAB-106E-468E-9C6D-CA4330C24292}](https://github.com/user-attachments/assets/417181d7-b740-4899-9717-6e069a443121)
+
 
 # Преимущества для клиентов
  1. Удобный и понятный интерфейс
  2. Пробная подписка
- 3. Способ оплаты ЮКасса
- 4. Выбор страны
+ 3. Способ оплаты ЮКасса и Crypto Pay
+ 4. Выбор страны и смена страны
  5. Продление подписки
  6. Возможность использования промокодов
  7. Объединение подписок в одну
@@ -42,9 +44,11 @@
  11. Удаление пользователя через Админ-панель или Веб-модуль
  12. Добавление тарифных планов через Админ-панель или Веб-модуль (на одном сервере могут работать несколько и более тарифов)
  13. Редактирование и удаление текущих тарифов через Админ-панель или Веб-модуль
- ![1000005272](https://github.com/user-attachments/assets/c8b03378-24df-4336-91fa-b170e4f4fddb)
-![4337500b-217c-5a31-b044-c427295f58cd](https://github.com/user-attachments/assets/94cc7260-6eef-4fb3-b29f-a56ecf0a934b)
-![7797e274-b3e8-5152-aeec-be20be14980b](https://github.com/user-attachments/assets/75006b74-8ec0-406b-b587-e6c1e2432f71)
+![photo_2025-03-14_04-24-10](https://github.com/user-attachments/assets/90d1afc4-3b80-4cc2-9acf-de0e1ddcde97)
+![photo_2025-03-14_04-24-10 (2)](https://github.com/user-attachments/assets/822bbf65-7da2-4fea-8fbf-773e4c705d21)
+![photo_2025-03-14_04-29-49](https://github.com/user-attachments/assets/ac854268-55a5-4b32-a6ef-bb81723af66d)
+![photo_2025-03-14_04-24-10 (3)](https://github.com/user-attachments/assets/ed62f86a-f3a5-45ad-873c-3541d8c66c60)
+
 
 # Возможность редактирования сообщений
  1. Приветственное сообщение админа
